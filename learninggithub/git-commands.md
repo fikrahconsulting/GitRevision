@@ -64,6 +64,8 @@ git remote -v
 
 git push --all
 
+git fetch (gathers remote branches in local repo)
+
 Git flow (sequence of steps using git)
 
 - Make feature/branch
